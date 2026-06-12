@@ -1,0 +1,6 @@
+{
+  "name": "Trattoria Bellavita",
+  "description": "An elegant, cozy, and modern Italian restaurant serving authentic traditional dishes in a warm, sophisticated Mediterranean setting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
